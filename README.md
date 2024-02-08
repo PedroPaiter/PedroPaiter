@@ -41,7 +41,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     <td>
       <img
         align="left"
-        src="https://github.com/PedroPaiter"
+        src="(https://github-readme-stats.vercel.app/api?username=PedroPaiter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)"
         alt="Github stats"
       />
     </td>
