@@ -5,9 +5,7 @@
 <p align="left"> 
   Sou de SC, tenho 18 anos e sou <strong>Desenvolvedor iniciante</strong>.
 
-Atualmente estou empenhado estudar e aprender sobre o incrivel mundo da programação. Faço o curso Engenheiro Front-End(Angular) no Entra21 pelo governo de SC.
-
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Atualmente estou empenhado estudar e aprender sobre o incrivel mundo da programação.Já concluí o curso Engenheiro Front-End (Angular) pelo programa Entra21 do governo de Santa Catarina, assim tambêm como finalizei o Jovem Programador (Java) pelo SENAC. Continuo sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 <h2 align="left">
   Linguagens:
